@@ -1,0 +1,6 @@
+{
+  "name": "BhuDrishti 3D",
+  "description": "Next-generation 3D cadastral digital twin and urban land records platform for India with multi-tiered vertical property mapping, Bhu-Aadhaar ULPIN verification, and interactive GIS spatial analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
